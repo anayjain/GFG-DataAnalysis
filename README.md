@@ -336,6 +336,6 @@ fig.update_layout(
 # fig.show()
 ```
 
-![newplot.png](https://drive.google.com/file/d/1cVeQD3kavwIwdZOQ7xVnD1MXw4ztSHhg/view)
+![newplot.png](https://drive.google.com/uc?export=view&id=1cVeQD3kavwIwdZOQ7xVnD1MXw4ztSHhg)
 
 From the graph above you can see that no. of views is extremely high when the duration of videos is less. As the duration increases there is steep decline in viewer count until it reaches a stable value wherein even 10million millisec duration videos get a low viewer count.
