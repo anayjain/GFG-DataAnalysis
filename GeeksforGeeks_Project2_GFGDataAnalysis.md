@@ -336,6 +336,6 @@ fig.update_layout(
 # fig.show()
 ```
 
-![newplot.png](https://github.com/anayjain/GFG-DataAnalysis/blob/main/newplot.png?raw=true)
+![alt newplot.png](https://github.com/anayjain/GFG-DataAnalysis/blob/main/newplot.png?raw=true)
 
 From the graph above you can see that no. of views is extremely high when the duration of videos is less. As the duration increases there is steep decline in viewer count until it reaches a stable value wherein even 10million millisec duration videos get a low viewer count.
