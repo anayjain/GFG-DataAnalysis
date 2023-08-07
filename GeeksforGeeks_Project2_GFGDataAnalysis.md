@@ -453,7 +453,7 @@ fig.update_layout(
 fig.show()
 ```
 
-
+```html
 <html>
 <head><meta charset="utf-8" /></head>
 <body>
@@ -485,7 +485,7 @@ if (outputEl) {{
                         })                };                            </script>        </div>
 </body>
 </html>
-
+```
 
 From the graph above you can see that no. of views is extremely high when the duration of videos is less. As the duration increases there is steep decline in viewer count until it reaches a stable value wherein even 10million millisec duration videos get a low viewer count.
 
