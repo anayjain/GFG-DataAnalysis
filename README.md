@@ -41,6 +41,7 @@ import math
 
 import json
 import pandas as pd
+import config
 
 from itables import show
 from tabulate import tabulate
@@ -77,7 +78,7 @@ def get_video_details(youtube, **kwargs):
 api_service_name = "youtube"
 api_version = "v3"
 # API key
-DEVELOPER_KEY = "AIzaSyDOe4w7EHaeRfqzrG7JyadEuwFowxM6YXs"
+DEVELOPER_KEY = config.DEVELOPER_KEY
 # API client
 youtube = build(
     api_service_name, api_version, developerKey = DEVELOPER_KEY)
