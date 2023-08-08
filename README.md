@@ -1,5 +1,5 @@
 # Problem 1
-## Project Name: [Swiggy Restaurants Data Analysis](/geeksforgeeks_project2_gfgdatanalysis.py)
+## Project Name: [Swiggy Restaurants Data Analysis](/GeeksforGeeks_Project1_SwiggyDataAnalysis.ipynb)
 
 ### Problem Statement:
 1. How many cities (including subregions) where Swiggy is having its restaurants listed?
