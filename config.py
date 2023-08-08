@@ -1,1 +1,0 @@
-DEVELOPER_KEY = "AIzaSyDOe4w7EHaeRfqzrG7JyadEuwFowxM6YXs"
