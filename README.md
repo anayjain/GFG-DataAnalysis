@@ -18,6 +18,10 @@
 
 Dataset link: [Swiggy Data](https://drive.google.com/file/d/1MCnCNHJXxc97EYwIdBszOkEBusu9FpCa/view)
 
+Steps to reproduce result - 
+1. Either run the Colab notebook show as a link to Swiggy Restaurants Data Analysis.
+2. Or run .py file separately on your local systems.
+3. Also attached is the data.json file extracted from the zip file of Swiggy data link provided.
 
 # Problem 2
 ## Project Name: [GeeksforGeeks Data Analysis](/GeeksforGeeks_Project2_GFGDataAnalysis.ipynb)
@@ -31,3 +35,8 @@ Scrape the Geeksforgeeks youtube channel videos of the past 6 months dataset
 5. Make a comparison between the number of views and video length using a Graph.
 
 Dataset: https://www.youtube.com/@GeeksforGeeksVideos/videos
+
+Steps to reproduce result - 
+1. Either run the collab notebook show as a link to GeeksforGeeks Data Analysis.
+2. Or run .py file separately on your local systems.
+3. Also attached is the newplot.png file i.e is the plotted graph in case it is not visible on the Colab notebook.
